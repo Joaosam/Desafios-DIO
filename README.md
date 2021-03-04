@@ -31,7 +31,10 @@
             <tr>
                 <td align="center">3</td>
                 <td>Quanta Mandioca?</td>
-                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/1.%20Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/3.%20Quanta%20Mandioca/solucao.cs">Código</a></td>          
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/1.%20Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/3.%20Quanta%20Mandioca/solucao.cs">Código</a></td>
+        </table>
+                <!-- Treino em POO -->   
+        <table border="1">       
             <tr>
                 <th colspan="4">Treino em POO</th>
             </tr>
