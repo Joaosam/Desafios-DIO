@@ -1,7 +1,5 @@
 <h1 align="center">Desafios e Soluções 📚 🚀 🤘🏼<h1>
-
-   <p style="font-size: 15"></p>
-
+ 
 <details>    
   <summary><strong>C#</strong></summary>  
 
