@@ -19,6 +19,11 @@
 | :-------------------: | :-------------------: |
 |  Bazinga          |  [`Código`](https://github.com/Joaosam/Desafios-DIO/blob/master/Desafios/2%20-%20Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20.NET/Bazinga/Bazinga/Program.cs)|
 |  Coxinha do Bueno |  [`Código`](https://github.com/Joaosam/Desafios-DIO/blob/master/Desafios/1%20-%20Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/2%20-%20Dist%C3%A2ncia/Distancia/Program.cs)|
+
+### Solução de problemas com .NET
+|       **Desafio**       |       **Solução**   |
+| :-------------------: | :-------------------: |
+|  Validação de Notas          |  [`Código`](https://github.com/Joaosam/Desafios-DIO/blob/master/Desafios/4%20-%20Solu%C3%A7%C3%A3o%20de%20problemas%20com%20.NET/ValidacaoDeNotas/Program.cs)|
 </details>
 <br>
 <details>
