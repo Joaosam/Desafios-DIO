@@ -1,0 +1,16 @@
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\ValidacaoDeNotas\bin\Debug\net5.0\ValidacaoDeNotas.exe
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\ValidacaoDeNotas\bin\Debug\net5.0\ValidacaoDeNotas.deps.json
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\ValidacaoDeNotas\bin\Debug\net5.0\ValidacaoDeNotas.runtimeconfig.json
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\ValidacaoDeNotas\bin\Debug\net5.0\ValidacaoDeNotas.runtimeconfig.dev.json
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\ValidacaoDeNotas\bin\Debug\net5.0\ValidacaoDeNotas.dll
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\ValidacaoDeNotas\bin\Debug\net5.0\ref\ValidacaoDeNotas.dll
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\ValidacaoDeNotas\bin\Debug\net5.0\ValidacaoDeNotas.pdb
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\ValidacaoDeNotas\obj\Debug\net5.0\ValidacaoDeNotas.csprojAssemblyReference.cache
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\ValidacaoDeNotas\obj\Debug\net5.0\ValidacaoDeNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\ValidacaoDeNotas\obj\Debug\net5.0\ValidacaoDeNotas.AssemblyInfoInputs.cache
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\ValidacaoDeNotas\obj\Debug\net5.0\ValidacaoDeNotas.AssemblyInfo.cs
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\ValidacaoDeNotas\obj\Debug\net5.0\ValidacaoDeNotas.csproj.CoreCompileInputs.cache
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\ValidacaoDeNotas\obj\Debug\net5.0\ValidacaoDeNotas.dll
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\ValidacaoDeNotas\obj\Debug\net5.0\ref\ValidacaoDeNotas.dll
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\ValidacaoDeNotas\obj\Debug\net5.0\ValidacaoDeNotas.pdb
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\ValidacaoDeNotas\obj\Debug\net5.0\ValidacaoDeNotas.genruntimeconfig.cache
