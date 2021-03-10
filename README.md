@@ -34,3 +34,15 @@
 | :-------------------: | :-------------------: |
 |  Transações Bancárias          |  [`Código`](https://github.com/Joaosam/Desafios-DIO/blob/master/Desafios/3%20-%20Desafio%20-%20Transa%C3%A7%C3%B5es%20Banc%C3%A1rias/Program.cs)|
 </details>
+<br>
+<details>
+  <summary><strong>POO</strong></summary>
+
+### Solução em problemas .NET
+|       **Desafio**       |       **Solução**   |
+| :-------------------: | :-------------------: |
+|  Validação de Notas          |  [`Código`](https://github.com/Joaosam/Desafios-DIO/blob/master/Desafios/4%20-%20Solu%C3%A7%C3%A3o%20de%20problemas%20com%20.NET/1%20-%20Valida%C3%A7%C3%A3o%20de%20notas/Program.cs)|
+|  Compras no Supermercado |  [`Código`](https://github.com/Joaosam/Desafios-DIO/blob/master/Desafios/4%20-%20Solu%C3%A7%C3%A3o%20de%20problemas%20com%20.NET/2%20-%20Compras%20no%20Supermercado/ComprasNoSupermercado/Program.cs)|
+|  Validador de Senhas |  [`Código`](https://github.com/Joaosam/Desafios-DIO/blob/master/Desafios/4%20-%20Solu%C3%A7%C3%A3o%20de%20problemas%20com%20.NET/3%20-%20Validador%20de%20Senhas/ValidadorDeSenhas/Program.cs)|
+|  FIla do Banco |  [`Código`](https://github.com/Joaosam/Desafios-DIO/blob/master/Desafios/4%20-%20Solu%C3%A7%C3%A3o%20de%20problemas%20com%20.NET/4%20-%20Fila%20do%20banco/FilaDoBanco/Program.cs)|
+</details>
