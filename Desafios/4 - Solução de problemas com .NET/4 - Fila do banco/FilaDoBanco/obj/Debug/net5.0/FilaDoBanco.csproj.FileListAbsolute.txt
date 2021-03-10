@@ -1,0 +1,32 @@
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\Fila do banco\FilaDoBanco\bin\Debug\net5.0\FilaDoBanco.exe
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\Fila do banco\FilaDoBanco\bin\Debug\net5.0\FilaDoBanco.deps.json
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\Fila do banco\FilaDoBanco\bin\Debug\net5.0\FilaDoBanco.runtimeconfig.json
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\Fila do banco\FilaDoBanco\bin\Debug\net5.0\FilaDoBanco.runtimeconfig.dev.json
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\Fila do banco\FilaDoBanco\bin\Debug\net5.0\FilaDoBanco.dll
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\Fila do banco\FilaDoBanco\bin\Debug\net5.0\ref\FilaDoBanco.dll
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\Fila do banco\FilaDoBanco\bin\Debug\net5.0\FilaDoBanco.pdb
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\Fila do banco\FilaDoBanco\obj\Debug\net5.0\FilaDoBanco.csprojAssemblyReference.cache
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\Fila do banco\FilaDoBanco\obj\Debug\net5.0\FilaDoBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\Fila do banco\FilaDoBanco\obj\Debug\net5.0\FilaDoBanco.AssemblyInfoInputs.cache
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\Fila do banco\FilaDoBanco\obj\Debug\net5.0\FilaDoBanco.AssemblyInfo.cs
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\Fila do banco\FilaDoBanco\obj\Debug\net5.0\FilaDoBanco.csproj.CoreCompileInputs.cache
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\Fila do banco\FilaDoBanco\obj\Debug\net5.0\FilaDoBanco.dll
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\Fila do banco\FilaDoBanco\obj\Debug\net5.0\ref\FilaDoBanco.dll
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\Fila do banco\FilaDoBanco\obj\Debug\net5.0\FilaDoBanco.pdb
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\Fila do banco\FilaDoBanco\obj\Debug\net5.0\FilaDoBanco.genruntimeconfig.cache
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\4 - Fila do banco\FilaDoBanco\bin\Debug\net5.0\FilaDoBanco.exe
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\4 - Fila do banco\FilaDoBanco\bin\Debug\net5.0\FilaDoBanco.deps.json
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\4 - Fila do banco\FilaDoBanco\bin\Debug\net5.0\FilaDoBanco.runtimeconfig.json
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\4 - Fila do banco\FilaDoBanco\bin\Debug\net5.0\FilaDoBanco.runtimeconfig.dev.json
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\4 - Fila do banco\FilaDoBanco\bin\Debug\net5.0\FilaDoBanco.dll
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\4 - Fila do banco\FilaDoBanco\bin\Debug\net5.0\ref\FilaDoBanco.dll
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\4 - Fila do banco\FilaDoBanco\bin\Debug\net5.0\FilaDoBanco.pdb
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\4 - Fila do banco\FilaDoBanco\obj\Debug\net5.0\FilaDoBanco.csprojAssemblyReference.cache
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\4 - Fila do banco\FilaDoBanco\obj\Debug\net5.0\FilaDoBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\4 - Fila do banco\FilaDoBanco\obj\Debug\net5.0\FilaDoBanco.AssemblyInfoInputs.cache
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\4 - Fila do banco\FilaDoBanco\obj\Debug\net5.0\FilaDoBanco.AssemblyInfo.cs
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\4 - Fila do banco\FilaDoBanco\obj\Debug\net5.0\FilaDoBanco.csproj.CoreCompileInputs.cache
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\4 - Fila do banco\FilaDoBanco\obj\Debug\net5.0\FilaDoBanco.dll
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\4 - Fila do banco\FilaDoBanco\obj\Debug\net5.0\ref\FilaDoBanco.dll
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\4 - Fila do banco\FilaDoBanco\obj\Debug\net5.0\FilaDoBanco.pdb
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\4 - Fila do banco\FilaDoBanco\obj\Debug\net5.0\FilaDoBanco.genruntimeconfig.cache

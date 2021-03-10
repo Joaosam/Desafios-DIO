@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Desafios\\Dividindo X por Y\\DividindoXporY\\DividindoXporY.csproj",
+      "projectUniqueName": "C:\\Desafios - DIO\\Desafios\\1 - Introdução a Programação com C#\\1 - Dividindo X por Y\\DividindoXporY\\DividindoXporY.csproj",
       "projectName": "DividindoXporY",
-      "projectPath": "C:\\Desafios\\Dividindo X por Y\\DividindoXporY\\DividindoXporY.csproj",
+      "projectPath": "C:\\Desafios - DIO\\Desafios\\1 - Introdução a Programação com C#\\1 - Dividindo X por Y\\DividindoXporY\\DividindoXporY.csproj",
       "packagesPath": "C:\\Users\\JoãoPedroMendes\\.nuget\\packages\\",
-      "outputPath": "C:\\Desafios\\Dividindo X por Y\\DividindoXporY\\obj\\",
+      "outputPath": "C:\\Desafios - DIO\\Desafios\\1 - Introdução a Programação com C#\\1 - Dividindo X por Y\\DividindoXporY\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\JoãoPedroMendes\\AppData\\Roaming\\NuGet\\NuGet.Config",

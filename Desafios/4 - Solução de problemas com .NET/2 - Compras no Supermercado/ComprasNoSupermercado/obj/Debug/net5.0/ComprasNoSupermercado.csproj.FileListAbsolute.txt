@@ -1,0 +1,16 @@
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\Compras no Supermercado\ComprasNoSupermercado\bin\Debug\net5.0\ComprasNoSupermercado.exe
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\Compras no Supermercado\ComprasNoSupermercado\bin\Debug\net5.0\ComprasNoSupermercado.deps.json
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\Compras no Supermercado\ComprasNoSupermercado\bin\Debug\net5.0\ComprasNoSupermercado.runtimeconfig.json
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\Compras no Supermercado\ComprasNoSupermercado\bin\Debug\net5.0\ComprasNoSupermercado.runtimeconfig.dev.json
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\Compras no Supermercado\ComprasNoSupermercado\bin\Debug\net5.0\ComprasNoSupermercado.dll
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\Compras no Supermercado\ComprasNoSupermercado\bin\Debug\net5.0\ref\ComprasNoSupermercado.dll
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\Compras no Supermercado\ComprasNoSupermercado\bin\Debug\net5.0\ComprasNoSupermercado.pdb
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\Compras no Supermercado\ComprasNoSupermercado\obj\Debug\net5.0\ComprasNoSupermercado.csprojAssemblyReference.cache
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\Compras no Supermercado\ComprasNoSupermercado\obj\Debug\net5.0\ComprasNoSupermercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\Compras no Supermercado\ComprasNoSupermercado\obj\Debug\net5.0\ComprasNoSupermercado.AssemblyInfoInputs.cache
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\Compras no Supermercado\ComprasNoSupermercado\obj\Debug\net5.0\ComprasNoSupermercado.AssemblyInfo.cs
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\Compras no Supermercado\ComprasNoSupermercado\obj\Debug\net5.0\ComprasNoSupermercado.csproj.CoreCompileInputs.cache
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\Compras no Supermercado\ComprasNoSupermercado\obj\Debug\net5.0\ComprasNoSupermercado.dll
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\Compras no Supermercado\ComprasNoSupermercado\obj\Debug\net5.0\ref\ComprasNoSupermercado.dll
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\Compras no Supermercado\ComprasNoSupermercado\obj\Debug\net5.0\ComprasNoSupermercado.pdb
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\Compras no Supermercado\ComprasNoSupermercado\obj\Debug\net5.0\ComprasNoSupermercado.genruntimeconfig.cache

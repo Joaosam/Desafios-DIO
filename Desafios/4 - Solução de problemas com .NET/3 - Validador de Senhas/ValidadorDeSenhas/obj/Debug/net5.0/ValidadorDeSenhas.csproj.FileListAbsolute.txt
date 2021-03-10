@@ -1,0 +1,16 @@
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\Validador de Senhas\ValidadorDeSenhas\bin\Debug\net5.0\ValidadorDeSenhas.exe
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\Validador de Senhas\ValidadorDeSenhas\bin\Debug\net5.0\ValidadorDeSenhas.deps.json
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\Validador de Senhas\ValidadorDeSenhas\bin\Debug\net5.0\ValidadorDeSenhas.runtimeconfig.json
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\Validador de Senhas\ValidadorDeSenhas\bin\Debug\net5.0\ValidadorDeSenhas.runtimeconfig.dev.json
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\Validador de Senhas\ValidadorDeSenhas\bin\Debug\net5.0\ValidadorDeSenhas.dll
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\Validador de Senhas\ValidadorDeSenhas\bin\Debug\net5.0\ref\ValidadorDeSenhas.dll
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\Validador de Senhas\ValidadorDeSenhas\bin\Debug\net5.0\ValidadorDeSenhas.pdb
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\Validador de Senhas\ValidadorDeSenhas\obj\Debug\net5.0\ValidadorDeSenhas.csprojAssemblyReference.cache
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\Validador de Senhas\ValidadorDeSenhas\obj\Debug\net5.0\ValidadorDeSenhas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\Validador de Senhas\ValidadorDeSenhas\obj\Debug\net5.0\ValidadorDeSenhas.AssemblyInfoInputs.cache
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\Validador de Senhas\ValidadorDeSenhas\obj\Debug\net5.0\ValidadorDeSenhas.AssemblyInfo.cs
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\Validador de Senhas\ValidadorDeSenhas\obj\Debug\net5.0\ValidadorDeSenhas.csproj.CoreCompileInputs.cache
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\Validador de Senhas\ValidadorDeSenhas\obj\Debug\net5.0\ValidadorDeSenhas.dll
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\Validador de Senhas\ValidadorDeSenhas\obj\Debug\net5.0\ref\ValidadorDeSenhas.dll
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\Validador de Senhas\ValidadorDeSenhas\obj\Debug\net5.0\ValidadorDeSenhas.pdb
+C:\Desafios - DIO\Desafios\4 - Solução de problemas com .NET\Validador de Senhas\ValidadorDeSenhas\obj\Debug\net5.0\ValidadorDeSenhas.genruntimeconfig.cache
