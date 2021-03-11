@@ -36,4 +36,5 @@
 |       **Desafio**       |       **Solução**   |
 | :-------------------: | :-------------------: |
 |  Transações Bancárias          |  [`Código`](https://github.com/Joaosam/Desafios-DIO/blob/master/Desafios/3%20-%20Desafio%20-%20Transa%C3%A7%C3%B5es%20Banc%C3%A1rias/Program.cs)|
+|  Cadastro de Séries          |  [`Código`](https://github.com/Joaosam/Desafios-DIO/blob/master/Desafios/5%20-%20APP%20de%20cadastro%20de%20s%C3%A9ries/Program.cs)|
 </details>
